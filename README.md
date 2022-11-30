@@ -2,7 +2,8 @@
 
 # IRM (Incident Response Methodologies)
 
-CERT aDvens provides easy to use operational incident best practices with CERT Societe Generale.
+CERT aDvens provides easy to use operational incident best practices with [CERT Societe Generale](https://github.com/certsocietegenerale/IRM).
+
 These cheat sheets are dedicated to incident handling and cover multiple fields in which a CERT team can be involved.
 
 One IRM exists for each security incident we're used to dealing with.
