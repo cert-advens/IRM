@@ -7,7 +7,7 @@ These cheat sheets are dedicated to incident handling and cover multiple fields 
 
 One IRM exists for each security incident we're used to dealing with.
 
-These cheats sheets have been written in English with CERT Societe Genrale Team, and translate into French.
+These cheats sheets have been written in English with CERT Societe Genrale Team, translate into French and into Spanish by Francisco Neira from the [OAS](https://github.com/phrancisco/IRMs-SP).
 
 CERT aDvens would like to thank [CERT SG](https://github.com/certsocietegenerale/IRM) who collaborate to update these cheat sheets.
 
